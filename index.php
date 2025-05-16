@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Masukkan data ke puzzle games</h1>
-    <form action="proses.php" method="get">
+    <form action="proses2.php" method="get">
         <div>
             <label>Id Games</label>
             <input type="number" name="id">
